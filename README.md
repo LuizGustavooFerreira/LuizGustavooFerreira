@@ -4,7 +4,7 @@ Olá, me chamo luiz Gustavo da Costa Ferreira
 - ✔ Finalizando o Curso de informatica intregado ao insino medio.
 - 👌 Dominando linguagens como Python, c++, JavaScript, PHP, e atualemnte estudando, bootstrap, mysql e a linguagem Flutter Dart.
 - 📳 Atendendo no Email = Luizgustavoferreira135@gmail.com
-- 🙌 Tenho 17 anos, pretendo cursar Ciencias da Computação no IFSMG
+- 🙌 Tenho 18 anos, cursando Tec. Informatica e pretendo cursar Ciencias da Computação no IFSMG
 
 <div>
     <a href="https://github.com/LuizGustavooFerreira">
