@@ -1,26 +1,30 @@
 # Luiz Gustavo Costa Ferreira
 
-### Ciência da Computação | Tecnologia e Desenvolvimento de Software
+### Ciência da Computação | Análise de Dados & Business Intelligence
 
-Estudante de Ciência da Computação no IFSULDEMINAS, com conhecimentos em programação, bancos de dados e desenvolvimento de software. Busco oportunidades para aplicar meus conhecimentos, desenvolver novas habilidades e contribuir para a construção de soluções tecnológicas.
+Estudante de Ciência da Computação no IFSULDEMINAS, com interesse em transformar dados em informações relevantes para a tomada de decisão. Tenho conhecimentos em programação e bancos de dados e venho desenvolvendo projetos práticos para aprimorar minhas habilidades em análise de dados, Business Intelligence e desenvolvimento de soluções tecnológicas.
 
-### Competências técnicas
+### Tecnologias e competências
 
-- **Programação:** Python e outras linguagens utilizadas em projetos acadêmicos e pessoais.
-- **Banco de dados:** SQL e fundamentos de bancos de dados relacionais.
-- **Análise de Dados:** Power BI, DAX e Excel.
-- **Desenvolvimento de Software:** projetos acadêmicos e pessoais.
+- **Análise de Dados e BI:** Power BI, DAX e Excel
+- **Programação e análise:** Python e Pandas
+- **Banco de dados:** SQL e modelagem de dados
+- **Tecnologia:** lógica de programação, desenvolvimento de software e fundamentos de qualidade de sistemas
 
 ### Projetos em destaque
 
-- **[Análise de Vendas com Power BI](https://github.com/LuizGustavooFerreira/analise-vendas-power-bi)** — análise de indicadores comerciais e visualização de dados.
-- Outros projetos de programação disponíveis nos repositórios deste perfil.
+**[Análise de Vendas com Power BI](https://github.com/LuizGustavooFerreira/analise-vendas-power-bi)**
+
+Projeto de Business Intelligence voltado à análise de indicadores comerciais, com visualização de faturamento, ticket médio e desempenho de vendas.
+
+Outros projetos acadêmicos e pessoais estão disponíveis nos repositórios deste perfil.
 
 ### Objetivo profissional
 
-Busco oportunidades na área de tecnologia, com interesse em análise de dados, qualidade de software (QA) e desenvolvimento.
+Busco oportunidades na área de tecnologia, com foco em **Análise de Dados e Business Intelligence**, mantendo interesse em áreas relacionadas, como QA, testes de software e desenvolvimento.
 
 ### Contato
 
 - [GitHub](https://github.com/LuizGustavooFerreira)
 - [LinkedIn](https://www.linkedin.com/)
+
