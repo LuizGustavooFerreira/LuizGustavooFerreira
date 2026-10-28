@@ -2,14 +2,15 @@
 
 ### Ciência da Computação | Análise de Dados & Business Intelligence
 
-Estudante de Ciência da Computação no IFSULDEMINAS, com interesse em transformar dados em informações relevantes para a tomada de decisão. Tenho conhecimentos em programação e bancos de dados e venho desenvolvendo projetos práticos para aprimorar minhas habilidades em análise de dados, Business Intelligence e desenvolvimento de soluções tecnológicas.
+Estudante de Ciência da Computação no IFSULDEMINAS, interessado em transformar dados em informações relevantes para a tomada de decisão. Tenho conhecimentos em programação e bancos de dados e desenvolvo projetos práticos para aprimorar minhas habilidades em análise de dados, Business Intelligence e desenvolvimento de soluções tecnológicas.
 
 ### Tecnologias e competências
 
 - **Análise de Dados e BI:** Power BI, DAX e Excel
-- **Programação e análise:** Python e Pandas
-- **Banco de dados:** SQL e modelagem de dados
-- **Tecnologia:** lógica de programação, desenvolvimento de software e fundamentos de qualidade de sistemas
+- **Programação e análise:** Python, C++ e Pandas
+- **Desenvolvimento de APIs:** Django e Django REST Framework
+- **Banco de dados:** SQL, DDL, DML, modelagem de dados e engenharia reversa
+- **Outras competências:** lógica de programação, análise exploratória de dados, desenvolvimento de software e fundamentos de qualidade de software (QA)
 
 ### Projetos em destaque
 
