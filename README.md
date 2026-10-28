@@ -1,16 +1,25 @@
-### Olá, me chamo luiz Gustavo da Costa Ferreira
+# Luiz Gustavo Costa Ferreira
 
-- 📚 Atualmente estudando na univerdidade IFSMG (Instituto Federal do Sul de Minas Gerais) no Campus Muzabinho.
-- ✔ Finalizando o Curso de informatica intregado ao insino medio.
-- 👌 Dominando linguagens como Python, C++, mysql, PHP; e atualemnte estudando bootstrap, javaScript e a linguagem Flutter Dart.
-- 📳 Atendendo no Email = Luizgustavoferreira135@gmail.com
-- 🙌 Tenho 18 anos, cursando Tec. Informatica e pretendo cursar Ciencias da Computação no IFSMG
+### Estudante de Ciência da Computação | Análise de Dados & Business Intelligence
 
-<div>
-    <a href="https://github.com/LuizGustavooFerreira">
-     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LuizGustavooFerreira&show_icons=true&theme=dark"/>
-</div>
+Estudante de Ciência da Computação no IFSULDEMINAS, com interesse em transformar dados em informações úteis para a tomada de decisão. Atualmente, desenvolvo projetos práticos para aprimorar minhas habilidades em análise de dados e visualização.
+
+### Tecnologias e ferramentas
+
+- **Business Intelligence:** Power BI, DAX, Excel
+- **Dados e programação:** SQL, Python, Pandas
+- **Visualização:** criação de dashboards e análise exploratória
+
+### Projetos em destaque
+
+**[Análise de Vendas com Power BI](https://github.com/LuizGustavooFerreira/analise-vendas-power-bi)**
+
+Dashboard para análise de indicadores comerciais, incluindo faturamento, ticket médio e desempenho por produto, cidade e vendedor.
+
+*Novos projetos de SQL, Python e Excel serão adicionados conforme forem desenvolvidos.*
 
 ### Contato
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizgustavooferreira)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-costa-ferreira-bb87bb282/)
+
+- [GitHub](https://github.com/LuizGustavooFerreira)
+- [LinkedIn](https://www.linkedin.com/)
+
