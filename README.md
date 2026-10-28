@@ -14,7 +14,8 @@ Estudante de Ciência da Computação no IFSULDEMINAS, interessado em transforma
 
 ### Projetos em destaque
 
-**[Análise de Vendas com Power BI](https://github.com/LuizGustavooFerreira/analise-vendas-power-bi)**
+- **[Análise de Vendas com Power BI](https://github.com/LuizGustavooFerreira/analise-vendas-power-bi)** — Dashboard de vendas e indicadores de negócio.
+- **[LifeHub Office](https://github.com/LuizGustavooFerreira/LifeHubOfice)** — Sistema full-stack de organização pessoal com React, Django e API REST.
 
 Projeto de Business Intelligence voltado à análise de indicadores comerciais, com visualização de faturamento, ticket médio e desempenho de vendas.
 
