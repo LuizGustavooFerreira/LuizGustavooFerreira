@@ -12,10 +12,11 @@ Estudante de Ciência da Computação no IFSULDEMINAS, interessado em transforma
 - **Banco de dados:** SQL, DDL, DML, modelagem de dados e engenharia reversa
 - **Outras competências:** lógica de programação, análise exploratória de dados, desenvolvimento de software e fundamentos de qualidade de software (QA)
 
-### Projetos em destaque
+## Projetos e prática em programação
 
 - **[Análise de Vendas com Power BI](https://github.com/LuizGustavooFerreira/analise-vendas-power-bi)** — Dashboard de vendas e indicadores de negócio.
 - **[LifeHub Office](https://github.com/LuizGustavooFerreira/LifeHubOfice)** — Sistema full-stack de organização pessoal com React, Django e API REST.
+- **[Beecrowd — Resolução de Problemas](https://judge.beecrowd.com/pt/profile/686619)** — Histórico de prática em lógica de programação e resolução de problemas algorítmicos. 43 problemas resolvidos.
 
 Projeto de Business Intelligence voltado à análise de indicadores comerciais, com visualização de faturamento, ticket médio e desempenho de vendas.
 
