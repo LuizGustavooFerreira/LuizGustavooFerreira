@@ -15,7 +15,8 @@ Estudante de Ciência da Computação no IFSULDEMINAS, interessado em transforma
 ## Projetos Práticos
 
 - **[Análise de Vendas com Power BI](https://github.com/LuizGustavooFerreira/analise-vendas-power-bi)** — Dashboard de vendas e indicadores de negócio.
-- **[LifeHub Office](https://github.com/LuizGustavooFerreira/LifeHubOfice)** — Sistema full-stack de organização pessoal com React, Django e API REST.
+- **[LifeHub Office](https://github.com/LuizGustavooFerreira/LifeHubOfice)** — Sistema full-stack com React, Django e API REST.
+- **[Análise Exploratória de Dados com Python](LINK_DO_REPOSITORIO)** — Análise estatística de dados automotivos utilizando Pandas, visualizações e correlações.
 
 ## Prática em programação
 
