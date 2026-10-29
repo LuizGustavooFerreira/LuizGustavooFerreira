@@ -19,6 +19,10 @@ Atuo com **Quality Assurance (QA) manual**, realizando testes de software, ident
 - **[Análise Exploratória de Dados de Automóveis](https://github.com/LuizGustavooFerreira/analise-descritiva-automoveis)** — Análise estatística com Python, Pandas, NumPy e visualizações para explorar distribuições e relações entre variáveis.
 - **[LifeHub Office](https://github.com/LuizGustavooFerreira/LifeHubOfice)** — Aplicação full-stack com React, Django e API REST.
 
+## Formação complementar
+
+- **[Excel + Power BI + DAX — 7 Cursos em 1 Formação Especialista](https://github.com/LuizGustavooFerreira/curso-excel-powerbi-dax)** — Formação Udemy concluída em outubro de 2026, com carga horária de 52,5 horas. [Ver certificado](https://github.com/LuizGustavooFerreira/curso-excel-powerbi-dax/blob/main/Certificado%20Udemy.pdf).
+
 ## Prática em programação
 
 Resolvo exercícios de lógica e algoritmos no Beecrowd para praticar resolução de problemas.
