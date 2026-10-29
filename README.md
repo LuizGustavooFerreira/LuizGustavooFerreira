@@ -1,17 +1,17 @@
 # Luiz Gustavo Costa Ferreira
 
-**Ciência da Computação | Análise de Dados, Business Intelligence e Tecnologia**
+**QA Manual | Ciência da Computação | Análise de Dados e Business Intelligence**
 
-Estudante de Ciência da Computação no IFSULDEMINAS, com formação técnica em Informática e conhecimentos em programação, bancos de dados e análise de dados. Desenvolvo projetos práticos para aplicar conhecimentos em Python, SQL, Power BI e desenvolvimento de software, com foco em resolver problemas e transformar dados em informações úteis.
+Atuo com **Quality Assurance (QA) manual**, realizando testes de software, identificação de falhas e validação do funcionamento de sistemas. Sou estudante de Ciência da Computação no IFSULDEMINAS e técnico em Informática, com conhecimentos em programação, bancos de dados e análise de dados. Também desenvolvo projetos práticos com Python, SQL e Power BI para transformar dados em informações úteis.
 
 ## Tecnologias
 
+- **Qualidade de Software:** testes manuais, identificação e documentação de falhas, validação de sistemas
 - **Dados e BI:** Power BI, DAX, Power Query, Excel e SQL
 - **Programação e análise:** Python, Pandas, NumPy e Matplotlib
 - **Bancos de dados:** MySQL, modelagem de dados e consultas SQL
 - **Desenvolvimento:** Django, Django REST Framework, HTML e Bootstrap
 - **Ferramentas:** Git, GitHub e Jupyter Notebook
-- **Interesses complementares:** qualidade de software (QA), testes e automação
 
 ## Projetos em destaque
 
@@ -28,7 +28,7 @@ Resolvo exercícios de lógica e algoritmos no Beecrowd para praticar resoluçã
 
 ## Objetivo profissional
 
-Busco oportunidades em tecnologia, com foco em **Análise de Dados e Business Intelligence**, e interesse em desenvolver competências relacionadas a qualidade de software e automação.
+Busco crescer na área de tecnologia, aprofundando minha experiência em QA e mantendo o desenvolvimento de competências em **Análise de Dados e Business Intelligence**.
 
 ## Contato
 
