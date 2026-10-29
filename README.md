@@ -1,40 +1,36 @@
 # Luiz Gustavo Costa Ferreira
 
-### Ciência da Computação | Análise de Dados & Business Intelligence
+**Ciência da Computação | Análise de Dados, Business Intelligence e Tecnologia**
 
-Estudante de Ciência da Computação no IFSULDEMINAS, interessado em transformar dados em informações relevantes para a tomada de decisão. Tenho conhecimentos em programação e bancos de dados e desenvolvo projetos práticos para aprimorar minhas habilidades em análise de dados, Business Intelligence e desenvolvimento de soluções tecnológicas.
+Estudante de Ciência da Computação no IFSULDEMINAS, com formação técnica em Informática e conhecimentos em programação, bancos de dados e análise de dados. Desenvolvo projetos práticos para aplicar conhecimentos em Python, SQL, Power BI e desenvolvimento de software, com foco em resolver problemas e transformar dados em informações úteis.
 
-### Tecnologias e competências
+## Tecnologias
 
-- **Análise de Dados e BI:** Power BI, DAX e Excel
-- **Programação e análise:** Python, C++ e Pandas
-- **Desenvolvimento de APIs:** Django e Django REST Framework
-- **Banco de dados:** SQL, DDL, DML, modelagem de dados e engenharia reversa
-- **Outras competências:** lógica de programação, análise exploratória de dados, desenvolvimento de software e fundamentos de qualidade de software (QA)
+- **Dados e BI:** Power BI, DAX, Power Query, Excel e SQL
+- **Programação e análise:** Python, Pandas, NumPy e Matplotlib
+- **Bancos de dados:** MySQL, modelagem de dados e consultas SQL
+- **Desenvolvimento:** Django, Django REST Framework, HTML e Bootstrap
+- **Ferramentas:** Git, GitHub e Jupyter Notebook
+- **Interesses complementares:** qualidade de software (QA), testes e automação
 
-## Projetos Práticos
+## Projetos em destaque
 
-- **[Análise de Vendas com Power BI](https://github.com/LuizGustavooFerreira/analise-vendas-power-bi)** — Dashboard de vendas e indicadores de negócio.
-- **[LifeHub Office](https://github.com/LuizGustavooFerreira/LifeHubOfice)** — Sistema full-stack com React, Django e API REST.
-- **[Análise Exploratória de Dados com Python](LINK_DO_REPOSITORIO)** — Análise estatística de dados automotivos utilizando Pandas, visualizações e correlações.
+- **[Análise de Vendas com Power BI](https://github.com/LuizGustavooFerreira/analise-vendas-power-bi)** — Dashboard de vendas com indicadores comerciais, incluindo faturamento, quantidade de vendas e ticket médio.
+- **[Análise Exploratória de Dados de Automóveis](https://github.com/LuizGustavooFerreira/analise-descritiva-automoveis)** — Análise estatística com Python, Pandas, NumPy e visualizações para explorar distribuições e relações entre variáveis.
+- **[LifeHub Office](https://github.com/LuizGustavooFerreira/LifeHubOfice)** — Aplicação full-stack com React, Django e API REST.
 
 ## Prática em programação
 
-Utilizo a plataforma Beecrowd para praticar lógica de programação e resolução de problemas algorítmicos.
+Resolvo exercícios de lógica e algoritmos no Beecrowd para praticar resolução de problemas.
 
 - **43 problemas resolvidos**
-- [Ver meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/686619)
+- [Meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/686619)
 
-Projeto de Business Intelligence voltado à análise de indicadores comerciais, com visualização de faturamento, ticket médio e desempenho de vendas.
+## Objetivo profissional
 
-Outros projetos acadêmicos e pessoais estão disponíveis nos repositórios deste perfil.
+Busco oportunidades em tecnologia, com foco em **Análise de Dados e Business Intelligence**, e interesse em desenvolver competências relacionadas a qualidade de software e automação.
 
-### Objetivo profissional
+## Contato
 
-Busco oportunidades na área de tecnologia, com foco em **Análise de Dados e Business Intelligence**, mantendo interesse em áreas relacionadas, como QA, testes de software e desenvolvimento.
-
-### Contato
-
+- [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-costa-ferreira)
 - [GitHub](https://github.com/LuizGustavooFerreira)
-- [LinkedIn](https://www.linkedin.com/)
-
